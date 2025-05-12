@@ -13,3 +13,6 @@ target/
 
 # mount directory
 mount/
+
+.pre-commit-config.yaml
+.direnv/

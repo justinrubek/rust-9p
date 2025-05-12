@@ -1,4 +1,3 @@
-
 [package]
 name = "unpfs"
 version = "0.0.1"
@@ -18,7 +17,7 @@ async-trait = "^0.1"
 futures = "^0.3"
 
 [dependencies.rust-9p]
-path = "../../"
+path = "../proto"
 
 [profile.release]
 opt-level = 3
